@@ -1,5 +1,8 @@
 <p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/halloween-still.svg" />
   <img src="./assets/halloween-banner.svg" width="100%" alt="Horali — a little automation magic. An orange Halloween banner with friendly ghosts, a pumpkin, and a tiny terminal." />
+  </picture>
 </p>
 
 <h3 align="center">hi, i'm horali 🍊</h3>
