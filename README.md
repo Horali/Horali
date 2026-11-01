@@ -5,22 +5,24 @@
   </picture>
 </p>
 
-<h3 align="center">hi, i'm horali 🍊</h3>
+<p align="center">
+  <img src="./assets/hello-horali.svg" width="100%" alt="hi, i'm horali! Less clicking, more tinkering." />
+</p>
 
 <p align="center">
-  i like making my computer do the repetitive stuff for me.<br />
-  sometimes that turns into a small script. sometimes it becomes an entire app.
+  i get a little too invested in making repetitive tasks do themselves.<br />
+  a quick script has a funny way of becoming an entire app.
 </p>
 
 <br />
 
-### 🎃 things i'm into
+<img src="./assets/rabbit-holes.svg" width="100%" alt="🎃 my current rabbit holes" />
 
-- **automation** — the main obsession. fewer clicks, more little scripts.
-- **browser tools** — teaching browsers to do things, then figuring out why they didn't.
-- **AI workflows** — connecting models to tools i can actually use.
-- **video & creative tools** — experimenting with clips, captions, and editing pipelines.
-- **personal software** — building something because i want to use it myself.
+- **automation** — if i'm doing it again, i'm probably writing a script for it.
+- **browser tools** — getting tabs, profiles, and workflows to behave themselves.
+- **AI workflows** — giving models something useful to do beyond the chat box.
+- **creative tools** — turning footage into clips, captions, and finished edits.
+- **personal software** — oddly specific tools for my own oddly specific problems.
 
 <br />
 
@@ -32,5 +34,5 @@
 </p>
 
 <p align="center">
-  <sub>👻 probably automating something i could have done manually by now.</sub>
+  <sub>👻 “this should only take a quick script.”</sub>
 </p>
