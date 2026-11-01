@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="100" viewBox="0 0 960 100" role="img" aria-labelledby="title desc">
+  <title id="title">My current rabbit holes</title>
+  <desc id="desc">A tiny pumpkin carries a code task from the queue, through a running gear, to a completed-task tray.</desc>
+  <style>
+    .courier { animation: deliver 10s linear infinite; }
+    .walk { animation: walk .6s ease-in-out infinite; }
+    .code { animation: code 10s steps(1) infinite; }
+    .checked { animation: checked 10s steps(1) infinite; }
+    .gear { transform-box: fill-box; transform-origin: center; animation: turn 10s linear infinite; }
+    .dock { animation: dock 10s infinite; }
+    @keyframes deliver { 0% { transform:translateX(0);opacity:0; } 5%,10% { transform:translateX(0);opacity:1; } 40%,52% { transform:translateX(230px);opacity:1; } 80%,90% { transform:translateX(470px);opacity:1; } 95%,100% { transform:translateX(470px);opacity:0; } }
+    @keyframes walk { 0%,100% { transform:translateY(0) rotate(-3deg); } 50% { transform:translateY(-3px) rotate(3deg); } }
+    @keyframes code { 0%,45% { opacity:1; } 46%,100% { opacity:0; } }
+    @keyframes checked { 0%,45% { opacity:0; } 46%,100% { opacity:1; } }
+    @keyframes turn { 0%,38% { transform:rotate(0); } 54%,100% { transform:rotate(360deg); } }
+    @keyframes dock { 0%,76%,100% { opacity:.35; } 80%,92% { opacity:1; } }
+    @media (prefers-reduced-motion:reduce) { * { animation:none!important; } .courier { transform:translateX(230px); } .checked { opacity:0; } }
+  </style>
+  <g transform="translate(15 41)">
+    <path d="M0-8q-5-11 2-15" stroke="#a4a16a" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <ellipse cx="-5" rx="8" ry="11" fill="#df8544"/><ellipse cx="5" rx="8" ry="11" fill="#df8544"/><ellipse rx="8" ry="12" fill="#f4a45e"/>
+    <path d="M-7-2l3-3 1 4m10-1-3-3-1 4m-7 6q4 4 8 0" fill="none" stroke="#773d2b" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <text x="41" y="49" fill="#eb9b58" font-family="Georgia,serif" font-style="italic" font-size="27">my current rabbit holes</text>
+  <path d="M354 59H946" stroke="#d58b54" stroke-opacity=".4" stroke-dasharray="2 7"/>
+  <g transform="translate(373 49)" fill="none" stroke="#d58b54" stroke-width="2" stroke-linejoin="round">
+    <path d="M-14-6h28l4 17h-36Z M-18 11l9-1 4 5H5l4-5 9 1v9h-36Z"/>
+    <path d="M-6-11h12M-6-15h12" opacity=".6"/>
+  </g>
+  <g transform="translate(640 24)"><g class="gear" fill="none" stroke="#c78a59" stroke-width="2">
+    <circle r="8"/><circle r="3"/><path d="M0-13v5M0 8v5M-13 0h5M8 0h5M-9-9l4 4M5 5l4 4M-9 9l4-4M5-5l4-4"/>
+  </g></g>
+  <g transform="translate(411 50)"><g class="courier"><g class="walk">
+    <ellipse cy="18" rx="17" ry="3" fill="#b36738" opacity=".16"/>
+    <path d="M-2-11q-6-13 3-16" stroke="#a4a16a" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <ellipse cx="-7" rx="11" ry="15" fill="#dc7a38" stroke="#84482d" stroke-width="1.5"/>
+    <ellipse cx="7" rx="11" ry="15" fill="#dc7a38" stroke="#84482d" stroke-width="1.5"/>
+    <ellipse rx="11" ry="16" fill="#f4a45e" stroke="#84482d" stroke-width="1.5"/>
+    <circle cx="-5" cy="-2" r="1.6" fill="#773d2b"/><circle cx="5" cy="-2" r="1.6" fill="#773d2b"/>
+    <path d="M-4 5q4 4 8 0" fill="none" stroke="#773d2b" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M13 5l8-7" stroke="#84482d" stroke-width="2" stroke-linecap="round"/>
+    <g transform="translate(24 -17) rotate(8)">
+      <rect x="-10" y="-12" width="22" height="26" rx="3" fill="#fff2d9" stroke="#b96e40" stroke-width="1.5"/>
+      <path class="code" d="M-3-3l-4 4 4 4M5-3l4 4-4 4" fill="none" stroke="#b96e40" stroke-width="1.5"/>
+      <path class="checked" d="M-5 1l4 4 8-9" fill="none" stroke="#7b8c45" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+  </g></g></g>
+  <g class="dock" transform="translate(929 49)" fill="none" stroke="#d58b54" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-16" y="-10" width="32" height="28" rx="6"/><path d="M-7 3l5 5 10-12"/>
+  </g>
+  <g fill="#c28d67" font-family="Consolas,monospace" font-size="10" text-anchor="middle" letter-spacing="1">
+    <text x="373" y="88">queued</text><text x="640" y="88">running</text><text x="929" y="88">done</text>
+  </g>
+</svg>

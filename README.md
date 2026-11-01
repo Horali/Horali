@@ -16,7 +16,7 @@
 
 <br />
 
-<img src="./assets/rabbit-holes.svg" width="100%" alt="🎃 my current rabbit holes" />
+<img src="./assets/rabbit-holes-delivery.svg" width="100%" alt="🎃 my current rabbit holes — a tiny pumpkin delivers a task from queued to running to done." />
 
 - **automation** — if i'm doing it again, i'm probably writing a script for it.
 - **browser tools** — getting tabs, profiles, and workflows to behave themselves.
@@ -32,6 +32,16 @@
   <img src="https://img.shields.io/badge/Playwright-38251c?style=flat-square" alt="Playwright" />
   <img src="https://img.shields.io/badge/React-38251c?style=flat-square&amp;logo=react&amp;logoColor=ffb66e" alt="React" />
 </p>
+
+<br />
+
+<img src="./assets/tinkering-queue.svg" width="100%" alt="👻 currently tinkering with — a little ghost sorts incoming ideas into a task queue." />
+
+- **browser automation that can pick up where it left off** — persistent profiles, scheduled jobs, and recovery when something breaks.
+- **a video workflow with fewer manual steps** — finding moments, drafting edits, and getting clips ready to post.
+- **AI tools that learn my preferences** — using feedback to make the next suggestion a little closer to what i want.
+
+<br />
 
 <p align="center">
   <sub>👻 “this should only take a quick script.”</sub>
