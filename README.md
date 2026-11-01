@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/halloween-banner.png" width="100%" alt="Horali — a little automation magic. A cozy orange anime coding room with a witch, tiny ghosts, and pumpkins." />
+  <img src="./assets/halloween-banner.svg" width="100%" alt="Horali — a little automation magic. An orange Halloween banner with friendly ghosts, a pumpkin, and a tiny terminal." />
 </p>
 
 <h3 align="center">hi, i'm horali 🍊</h3>
