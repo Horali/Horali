@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="174" viewBox="0 0 960 174" role="img" aria-labelledby="title desc">
-  <title id="title">hi, i'm horali!</title>
+  <title id="title">hi, i'm Horali!</title>
   <desc id="desc">Orange and peach lettering with a hand-drawn underline and little stars. Less clicking, more tinkering.</desc>
   <style>
     .hello { fill: #f4c09a; }
@@ -13,7 +13,7 @@
   </style>
   <g text-anchor="middle">
     <text x="480" y="36" fill="#d89056" font-family="Consolas, monospace" font-size="11" letter-spacing="4">THE PERSON BEHIND THE SCRIPTS</text>
-    <text x="477" y="102" font-size="56"><tspan class="hello" font-family="Georgia, serif" font-style="italic">hi, i'm </tspan><tspan fill="#f29b55" font-family="'Trebuchet MS', sans-serif" font-weight="700" letter-spacing="-2">horali!</tspan></text>
+    <text x="477" y="102" font-size="56"><tspan class="hello" font-family="Georgia, serif" font-style="italic">hi, i'm </tspan><tspan fill="#f29b55" font-family="'Trebuchet MS', sans-serif" font-weight="700" letter-spacing="-2">Horali!</tspan></text>
     <text class="note" x="480" y="157" font-family="Consolas, monospace" font-size="14" letter-spacing="1">less clicking, more tinkering.</text>
   </g>
   <path class="flourish" d="M401 115q97-13 194-3m-176 12q83-9 158-4" stroke="#e88c45" stroke-width="3" stroke-linecap="round" fill="none"/>

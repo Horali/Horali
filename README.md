@@ -1,12 +1,12 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/halloween-still.svg" />
-  <img src="./assets/halloween-animated.svg" width="100%" alt="Horali — a little automation magic. An orange Halloween banner with floating ghosts, a wiggling pumpkin, and a typing terminal." />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/halloween-still-v2.svg" />
+  <img src="./assets/halloween-animated-v2.svg" width="100%" alt="Horali — a little automation magic. An orange Halloween banner with floating ghosts, a wiggling pumpkin, and a typing terminal." />
   </picture>
 </p>
 
 <p align="center">
-  <img src="./assets/hello-horali.svg" width="100%" alt="hi, i'm horali! Less clicking, more tinkering." />
+  <img src="./assets/hello-horali-v2.svg" width="100%" alt="hi, i'm Horali! Less clicking, more tinkering." />
 </p>
 
 <p align="center">

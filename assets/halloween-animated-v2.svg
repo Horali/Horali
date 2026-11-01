@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">horali — a little automation magic</title>
+  <title id="title">Horali — a little automation magic</title>
   <desc id="desc">Orange Halloween illustration with floating, blinking ghosts, twinkling stars, a rocking pumpkin, a typing terminal, and a looping automation queue. Motion pauses when reduced motion is preferred.</desc>
   <style>
     .float-a { animation: float 4.8s ease-in-out infinite; }
@@ -59,7 +59,7 @@
   <g fill="#773d2b" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2">
     <text x="65" y="67">WELCOME TO MY LITTLE CORNER</text>
   </g>
-  <text x="59" y="205" fill="#773d2b" font-family="'Trebuchet MS', 'Arial Rounded MT Bold', sans-serif" font-size="116" font-weight="700" letter-spacing="-6">horali<tspan fill="#d66b34">.</tspan></text>
+  <text x="59" y="205" fill="#773d2b" font-family="'Trebuchet MS', 'Arial Rounded MT Bold', sans-serif" font-size="116" font-weight="700" letter-spacing="-6">Horali<tspan fill="#d66b34">.</tspan></text>
   <text x="66" y="248" fill="#8c4a31" font-family="'Trebuchet MS', sans-serif" font-size="23">a little automation magic</text>
   <rect x="66" y="282" width="151" height="28" rx="14" fill="#fff0d7"/>
   <circle class="status" cx="82" cy="296" r="3" fill="#bd632e"/>
