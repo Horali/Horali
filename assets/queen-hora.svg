@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Queen Hora</title>
+  <desc id="desc">A lilac and cream typographic banner on dark plum, with an orbital crown illustration.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b7a2d4" stroke-opacity=".07"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#8261aa" stop-opacity=".24"/><stop offset="1" stop-color="#201829" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="440" rx="20" fill="#201829"/>
+  <rect width="1200" height="440" rx="20" fill="url(#grid)"/>
+  <ellipse cx="960" cy="240" rx="350" ry="310" fill="url(#glow)"/>
+  <rect x="22" y="22" width="1156" height="396" rx="10" fill="none" stroke="#b7a2d4" stroke-opacity=".22"/>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="13" letter-spacing="2" fill="#bcacce">
+    <text x="62" y="65">THE BUILD LOG</text>
+    <text x="1138" y="65" text-anchor="end">@HORALI</text>
+  </g>
+  <path d="M62 89H1138" stroke="#b7a2d4" stroke-opacity=".2"/>
+  <text x="58" y="216" font-family="Georgia, 'Times New Roman', serif" font-size="118" letter-spacing="-5" fill="#f4ecdf">Queen</text>
+  <text x="58" y="335" font-family="Arial, Helvetica, sans-serif" font-size="128" font-weight="900" letter-spacing="10" fill="#ceb4f0">HORA<tspan fill="#edbdac">.</tspan></text>
+  <g transform="translate(933 232)">
+    <circle r="111" fill="none" stroke="#ccb2ec" stroke-opacity=".22"/>
+    <circle r="145" fill="none" stroke="#ccb2ec" stroke-opacity=".1" stroke-dasharray="3 9"/>
+    <ellipse rx="191" ry="61" transform="rotate(-32)" fill="none" stroke="#ccb2ec" stroke-opacity=".6"/>
+    <ellipse rx="160" ry="93" transform="rotate(35)" fill="none" stroke="#edbdac" stroke-opacity=".25"/>
+    <path d="M-65-36L-49 43H49L65-36 25-5 0-58-25-5Z" fill="#ceb4f0"/>
+    <path d="M-42 59H42" stroke="#edbdac" stroke-width="6" stroke-linecap="round"/>
+    <path d="M0-29L10-10 0 8-10-10Z" fill="#201829"/>
+    <circle cx="-141" cy="94" r="7" fill="#edbdac"/>
+    <circle cx="148" cy="-91" r="5" fill="#ceb4f0"/>
+  </g>
+  <g fill="#f4ecdf">
+    <path d="M704 140l4 13 13 4-13 4-4 13-4-13-13-4 13-4Z"/>
+    <path d="M1111 316l3 9 9 3-9 3-3 9-3-9-9-3 9-3Z"/>
+    <circle cx="747" cy="300" r="2"/>
+    <circle cx="1068" cy="126" r="2"/>
+  </g>
+  <path d="M62 365H1138" stroke="#b7a2d4" stroke-opacity=".2"/>
+  <text x="62" y="395" font-family="ui-monospace, Consolas, monospace" font-size="12" letter-spacing="2" fill="#bcacce">CODE / PROJECTS / EXPERIMENTS</text>
+  <text x="1138" y="395" text-anchor="end" font-family="Georgia, serif" font-size="19" font-style="italic" fill="#edbdac">a little royal treatment.</text>
+</svg>
