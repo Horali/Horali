@@ -1,50 +1,33 @@
 <p align="center">
-  <img src="./assets/queen-hora.svg" width="100%" alt="Queen Hora — the build log of @Horali" />
+  <img src="./assets/halloween-banner.png" width="100%" alt="Horali — a little automation magic. A cozy orange anime coding room with a witch, tiny ghosts, and pumpkins." />
 </p>
 
+<h3 align="center">hi, i'm horali 🍊</h3>
+
 <p align="center">
-  <a href="https://github.com/Horali?tab=repositories">browse the projects ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Horali?tab=stars">the inspiration shelf ↗</a>
+  i like making my computer do the repetitive stuff for me.<br />
+  sometimes that turns into a small script. sometimes it becomes an entire app.
 </p>
 
 <br />
 
-### A few things from my corner of GitHub
+### 🎃 things i'm into
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 / BACKEND</sub>
-      <h3><a href="https://github.com/Horali/RPLibrary">RPLibrary ↗</a></h3>
-      <p>A library management REST API, built with Go, Gin, and PostgreSQL.</p>
-      <p><code>Go</code> <code>Gin</code> <code>PostgreSQL</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / WEB</sub>
-      <h3><a href="https://github.com/Horali/ayam-geprek-pos">ayam-geprek-pos ↗</a></h3>
-      <p>A point-of-sale project with a very good name.</p>
-      <p><code>TypeScript</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 / ANDROID</sub>
-      <h3><a href="https://github.com/Horali/senocam-repo">senocam-repo ↗</a></h3>
-      <p>From the Kotlin side of the project collection.</p>
-      <p><code>Kotlin</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / MORE WEB</sub>
-      <h3><a href="https://github.com/Horali/laravel-vue-pos">laravel-vue-pos ↗</a></h3>
-      <p>Another take on point of sale, this time with Laravel and Vue.</p>
-      <p><code>Laravel</code> <code>Vue</code></p>
-    </td>
-  </tr>
-</table>
+- **automation** — the main obsession. fewer clicks, more little scripts.
+- **browser tools** — teaching browsers to do things, then figuring out why they didn't.
+- **AI workflows** — connecting models to tools i can actually use.
+- **video & creative tools** — experimenting with clips, captions, and editing pipelines.
+- **personal software** — building something because i want to use it myself.
 
 <br />
 
 <p align="center">
-  <sub>QUEEN HORA &nbsp;✦&nbsp; <a href="https://github.com/Horali?tab=repositories">there's more in the repos</a></sub>
+  <img src="https://img.shields.io/badge/Python-38251c?style=flat-square&amp;logo=python&amp;logoColor=ffb66e" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-38251c?style=flat-square&amp;logo=typescript&amp;logoColor=ffb66e" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Playwright-38251c?style=flat-square" alt="Playwright" />
+  <img src="https://img.shields.io/badge/React-38251c?style=flat-square&amp;logo=react&amp;logoColor=ffb66e" alt="React" />
+</p>
+
+<p align="center">
+  <sub>👻 probably automating something i could have done manually by now.</sub>
 </p>
