@@ -6,11 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/hello-horali-v2.svg" width="100%" alt="hi, i'm Horali! Less clicking, more tinkering." />
-</p>
-
-<p align="center">
-  <img src="./assets/about-study.svg" width="100%" alt="Software Engineering Undergraduate from Institut Teknologi Sepuluh Nopember" />
+  <img src="./assets/hello-horali-v3.svg" width="100%" alt="hi, i'm Horali! A Software Engineering undergraduate at Institut Teknologi Sepuluh Nopember." />
 </p>
 
 <p align="center">
