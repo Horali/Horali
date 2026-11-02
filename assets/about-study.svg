@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="76" viewBox="0 0 960 76" role="img" aria-labelledby="title">
+  <title id="title">Software Engineering Undergraduate from Institut Teknologi Sepuluh Nopember</title>
+  <style>
+    .school { fill:#d4ad8e; }
+    @media (prefers-color-scheme:light) { .school { fill:#8c654f; } }
+  </style>
+  <g text-anchor="middle" font-family="'Trebuchet MS',sans-serif">
+    <text x="480" y="28" fill="#eb9b58" font-size="24" font-weight="700">Software Engineering Undergraduate</text>
+    <text class="school" x="480" y="57" font-size="19">from Institut Teknologi Sepuluh Nopember</text>
+  </g>
+</svg>

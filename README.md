@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/about-study.svg" width="100%" alt="Software Engineering Undergraduate from Institut Teknologi Sepuluh Nopember" />
+</p>
+
+<p align="center">
   i get a little too invested in making repetitive tasks do themselves.<br />
   a quick script has a funny way of becoming an entire app.
 </p>
